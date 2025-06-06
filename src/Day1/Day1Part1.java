@@ -20,7 +20,7 @@ public class Day1Part1
         ArrayList<Integer> rightNumbers = new ArrayList<>();
         int distance = 0;
 
-        File input = new File("src/Day1/Day1Part1Input.txt");
+        File input = new File("src/Day1/Day1Input.txt");
         try {
             Scanner fileReader = new Scanner(input);
 

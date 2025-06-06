@@ -14,7 +14,7 @@ public class Day1Part2
 
         int similarityScore = 0;
 
-        File input = new File("src/Day1/Day1Part1Input.txt");
+        File input = new File("src/Day1/Day1Input.txt");
         try {
             Scanner fileReader = new Scanner(input);
 
